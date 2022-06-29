@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2zojKfTHuYg3lZMZphOe+UV9wJWncXK2Q9Qrq7z3jOA=",
+  "Source": "Api_demodb",
+  "BasePath": "_content/Api_demodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
