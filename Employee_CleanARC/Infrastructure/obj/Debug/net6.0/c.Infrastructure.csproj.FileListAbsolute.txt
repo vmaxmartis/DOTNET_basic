@@ -1,0 +1,15 @@
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.csproj.AssemblyReference.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.AssemblyInfoInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.AssemblyInfo.cs
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\bin\Debug\net6.0\c.Infrastructure.deps.json
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\bin\Debug\net6.0\c.Infrastructure.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\bin\Debug\net6.0\c.Infrastructure.pdb
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\bin\Debug\net6.0\a.Core.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\bin\Debug\net6.0\a.Core.pdb
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.csproj.CopyComplete
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\refint\c.Infrastructure.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\c.Infrastructure.pdb
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Debug\net6.0\ref\c.Infrastructure.dll

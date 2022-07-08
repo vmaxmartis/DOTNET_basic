@@ -1,0 +1,12 @@
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.csproj.AssemblyReference.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.AssemblyInfoInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.AssemblyInfo.cs
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.csproj.CoreCompileInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\bin\Debug\net6.0\a.Core.deps.json
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\bin\Debug\net6.0\a.Core.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\bin\Debug\net6.0\a.Core.pdb
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\refint\a.Core.dll
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\a.Core.pdb
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Core\obj\Debug\net6.0\ref\a.Core.dll

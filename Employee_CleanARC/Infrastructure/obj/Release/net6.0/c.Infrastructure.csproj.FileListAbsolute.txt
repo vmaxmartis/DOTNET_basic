@@ -1,0 +1,5 @@
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Release\net6.0\c.Infrastructure.csproj.AssemblyReference.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Release\net6.0\c.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Release\net6.0\c.Infrastructure.AssemblyInfoInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Release\net6.0\c.Infrastructure.AssemblyInfo.cs
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Infrastructure\obj\Release\net6.0\c.Infrastructure.csproj.CoreCompileInputs.cache

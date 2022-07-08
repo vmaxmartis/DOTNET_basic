@@ -1,0 +1,6 @@
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.csproj.AssemblyReference.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.AssemblyInfoInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.AssemblyInfo.cs
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.csproj.CoreCompileInputs.cache
+D:\DINH THIEN THOAI\DotNET_trainning\Employee_CleanARC\Employee.API\obj\Debug\net6.0\Employee.API.MvcApplicationPartsAssemblyInfo.cache

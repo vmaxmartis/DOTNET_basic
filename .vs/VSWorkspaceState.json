@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API_Auth",
+    "\\API_Auth\\Entities",
+    "\\API_Auth\\Models",
+    "\\MinimalApi-JWT",
+    "\\MinimalApi-JWT\\TodoApi"
+  ],
+  "SelectedNode": "\\MinimalApi-JWT\\TodoApi\\TodoApi.csproj",
+  "PreviewInSolutionExplorer": false
+}
